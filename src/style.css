@@ -85,7 +85,7 @@ form{
     cursor: pointer;
 }
 .field button:hover{
-    background-color: #016dcb;
+    background-color: #04569e;
 }
 .form-link{
     text-align: center;
@@ -130,6 +130,10 @@ a.facebook{
     color: #fff;
     background-color: #4267b2;
 }
+a.facebook:hover{
+    color: #fff;
+    background-color: #6890df;
+}
 
 a.facebook .facebook-icon{
     height: 28px;
@@ -156,6 +160,9 @@ img.google-img{
 }
 a.google{
     border: 1px solid #CACACA;
+}
+a.google:hover{
+    background-color: #cfcfcf;
 }
 a.google span{
     font-weight: 500;
